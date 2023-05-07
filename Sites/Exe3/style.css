@@ -1,0 +1,39 @@
+/* Altera a cor do fundo do header da página index */
+body {
+    background-color: #000000bb;
+}
+header {
+    background-color: #000000;
+  }
+  
+  /* Altera a cor e o tamanho da fonte do título principal na página index */
+  h1 {
+    color: #ff00ea;
+    font-size: 36px;
+  }
+  
+  /* Altera o espaçamento entre as linhas do texto na página index */
+  p {
+    line-height: 1.5em;
+  }
+  
+  /* Altera a cor e o tamanho da fonte do título do formulário */
+  legend {
+    color: #ff1aec;
+    font-size: 24px;
+  }
+  
+  /* Altera a cor e o tamanho da fonte dos rótulos dos inputs */
+  label {
+    color: #4c1bff;
+    font-size: 18px;
+  }
+  
+  /* Altera o espaçamento entre os elementos do formulário */
+  fieldset {
+    margin-bottom: 20px;
+  }
+   {
+    background-color:-moz-loading
+
+   }
